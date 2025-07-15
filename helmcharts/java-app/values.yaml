@@ -1,4 +1,4 @@
 replicaCount:  2
 image:
-  repository: 
-  tag:  
+  repository: khajaehtesham/springboot-app
+  tag: v2
